@@ -8,6 +8,7 @@ Script uses ciphersuite.info APIs to check CIPHER's strength {insecure,weak,secu
 
 ```
 git clone https://github.com/HexC0d3/Cipher_Hunter.git
+cd Cipher_Hunter
 python3 -m venv venv
 source venv/bin/activate 
 pip install -r requirements.txt
