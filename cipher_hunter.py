@@ -80,4 +80,3 @@ elif args.file:
             cipher_out_file.write(strength+'\n')
 
 
-
